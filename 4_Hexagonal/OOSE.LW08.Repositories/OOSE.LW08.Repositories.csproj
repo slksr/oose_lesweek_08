@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OOSE.LW08.Data\OOSE.LW08.Data.csproj" />
+    <ProjectReference Include="..\OOSE.LW08.Domain\OOSE.LW08.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
